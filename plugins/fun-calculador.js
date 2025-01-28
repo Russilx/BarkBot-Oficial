@@ -32,7 +32,7 @@ const handler = async (m, { conn, command, text, usedPrefix }) => {
       break;
     case 'pajero':
     case 'pajera':
-      emoji = '😏💦';
+      emoji = 'ADICTO A LA PAJA';
       if (percentages < 50) {
         description = `${tradutor.texto7[0]} ${text.toUpperCase()} ${tradutor.texto7[1]} ${percentages}% ${command}. ${emoji}*\n${tradutor.texto7[2]}`;
       } else if (percentages > 100) {
