@@ -12,7 +12,7 @@ const handler = async (m, {conn, usedPrefix}) => {
   const text = `${tradutor.texto1[0]}
 `.trim();
   const buttonMessage= {
-    'document': {url: `https://chat.whatsapp.com/JcbbV9r5f6aL8JxO780MAh`},
+    'document': {audio/src/assets/audio/01J673CQ9ZE93TRQKCKN9Q8Z0M.mp3 },
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2[0]}`,
     'fileLength': 99999999999999,
@@ -21,7 +21,7 @@ const handler = async (m, {conn, usedPrefix}) => {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://chat.whatsapp.com/JcbbV9r5f6aL8JxO780MAh',
+        'mediaUrl': 'https://github.com/BrunoSobrino/TheMystic-Bot-MD',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': tradutor.texto2[1],
