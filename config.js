@@ -17,17 +17,6 @@ global.owner = [
   ['5491125950331', '👑 BarkBot - Creador 👑', true],
 ];
 
-global.suittag = ['5491125950331'];
-global.prems = ['5491125950331'];
-
-global.packname = 'Sticker';
-global.author = 'The Mystic - Bot';
-global.wm = 'The Mystic - Bot';
-global.titulowm = 'The Mystic - Bot';
-global.titulowm2 = `The Mystic - Bot`
-global.igfg = 'The Mystic - Bot';
-global.wait = '*_[ ⏳ ] Cargando..._*';
-
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
 global.imagen2 = fs.readFileSync('./src/assets/images/menu/languages/pt/menu.png');
 global.imagen3 = fs.readFileSync('./src/assets/images/menu/languages/fr/menu.png')
