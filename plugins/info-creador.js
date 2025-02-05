@@ -27,7 +27,7 @@ const handler = async (m, {conn, usedPrefix}) => {
         'title': tradutor.texto2[1],
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA'}},
+        'sourceUrl': 'https://chat.whatsapp.com/JcbbV9r5f6aL8JxO780MAh'}},
     'caption': text,
     'footer': wm,
     // 'buttons':[
