@@ -12,7 +12,7 @@ const handler = async (m, {conn, usedPrefix}) => {
   const text = `${tradutor.texto1[0]}
 `.trim();
   const buttonMessage= {
-    'document': {audio/src/assets/audio/01J673CQ9ZE93TRQKCKN9Q8Z0M.mp3 },
+    'document': {url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`},
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2[0]}`,
     'fileLength': 99999999999999,
