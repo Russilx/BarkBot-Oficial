@@ -6,7 +6,7 @@ function handler(m, {groupMetadata}) {
   const datas = global
   const idioma = datas.db.data.users[m.sender].language
   const _translate = JSON.parse(fs.readFileSync(`./src/languages/${idioma}.json`))
-  const tradutor = _translate.plugins.fun_formarpareja
+  const tradutor = _translate.plugins.fun_follar
 
   const ps = groupMetadata.participants.map((v) => v.id);
   const a = ps.getRandom();
