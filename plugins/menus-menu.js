@@ -222,7 +222,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
  ├✘ _${usedPrefix}fantasmas_
  ├✘ _${usedPrefix}destraba_
  ├✘ _${usedPrefix}setpp_
- ├✘ _admins _
  └──────────┘
  
  *${tradutor.texto1[10]}*
