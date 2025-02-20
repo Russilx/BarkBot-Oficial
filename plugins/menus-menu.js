@@ -212,7 +212,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
  ├✘ _${usedPrefix}invocar_
  ├✘ _${usedPrefix}setwelcome_
  ├✘ _${usedPrefix}setbye_
- ├✘ _${usedPrefix}hidetag _
+ ├✘ _${usedPrefix}hidetag_
  ├✘ _${usedPrefix}hidetag_
  ├✘ _${usedPrefix}hidetag_
  ├✘ _${usedPrefix}hidetag_
