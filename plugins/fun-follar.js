@@ -13,7 +13,7 @@ function handler(m, {groupMetadata}) {
   let b;
   do b = ps.getRandom();
   while (b === a);
-  m.reply(`*${toM(a)}, ${tradutor.texto1[0]} ${toM(b)}, ${tradutor.texto1[1]}`, null, {
+  m.reply(`*${toM(a)}, ${tradutor.texto1[2]} ${toM(b)}, ${tradutor.texto1[3]}`, null, {
     mentions: [a, b],
   });
 }
